@@ -1,0 +1,23 @@
+[
+  "AccX_mean",
+  "AccX_std",
+  "AccX_min",
+  "AccX_max",
+  "AccX_range",
+  "AccY_mean",
+  "AccY_std",
+  "AccY_min",
+  "AccY_max",
+  "AccY_range",
+  "AccZ_mean",
+  "AccZ_std",
+  "AccZ_min",
+  "AccZ_max",
+  "AccZ_range",
+  "AccMag_mean",
+  "AccMag_std",
+  "AccMag_min",
+  "AccMag_max",
+  "AccMag_range",
+  "AccMag_jerk"
+]
