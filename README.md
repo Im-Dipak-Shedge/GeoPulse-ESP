@@ -155,3 +155,10 @@ to host a project temperary in cmd use claudeflared frontend:
 to host a project temperary in cmd use claudeflared backend : 
 
 .\cloudflared.exe tunnel --url http://localhost:3000 addd this to .env in frontend as backendurl
+
+
+
+## production 
+# pythonml flask url - https://geopulse-esp-python-ml.vercel.app/
+# node express url - https://geo-pulse-9mumyqaag-dipak-shedge-s-projects.vercel.app/
+
